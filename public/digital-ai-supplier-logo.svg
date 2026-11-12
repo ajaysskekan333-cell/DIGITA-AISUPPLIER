@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+<title id="title">DIGITAL AI SUPPLIER</title><desc id="desc">Connected commerce and supplier network symbol with DIGITAL AI SUPPLIER wordmark</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#39B8FF"/><stop offset="1" stop-color="#6257E8"/></linearGradient></defs>
+<rect x="12" y="12" width="216" height="216" rx="48" fill="#14294A"/>
+<path d="M62 92h116l-10 22H72z" fill="url(#g)"/>
+<path d="M76 119v59h38v-38h26v38h38v-59" fill="none" stroke="#fff" stroke-width="12" stroke-linejoin="round"/>
+<circle cx="94" cy="75" r="10" fill="#54D6C8"/><circle cx="174" cy="75" r="10" fill="#54D6C8"/>
+<path d="M104 75h60M134 75v-20" stroke="#54D6C8" stroke-width="7" stroke-linecap="round"/>
+<text x="265" y="105" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" letter-spacing="1.2" fill="#14294A">DIGITAL AI</text>
+<text x="265" y="174" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" letter-spacing="1.2" fill="#5267D9">SUPPLIER</text>
+<text x="268" y="211" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="3" fill="#66758C">COMMERCE • AI • SUPPLY</text>
+</svg>
